@@ -1,0 +1,131 @@
+[
+  {
+  "id": "true-automation",
+  "url":"/true-automation",
+  "landingImage":"/images/Landing-TrueAutomation.svg",
+  "detailSidebarImage":"/images/DetailSidebar-TrueAutomation.svg",
+  "title" : "True Automation",
+  "subtitle" : "",
+  "description": "",
+  "sidebar" : "",
+  "content": [
+    {"title": "Automate Every Corner", "description": "Forget switches and manual adjustments. MajorDom is so intuitive that your home knows when to turn on the lights, adjust the thermostat, or even close a window for you.", "image": ""},
+    {"title": "AI-Driven Decisions", "description": "MajorDom uses Artificial Intelligence to bring you an entirely new level of automation, from managing energy consumption to security alerts.", "image": ""},
+    {"title": "No More Manual Scripts", "description": "MajorDom's AI understands your needs and automates your home accordingly, saving you time and effort.", "image": ""}
+  ]
+  },
+  {
+    "id": "autonomous-ecosystem",
+   "url":"/autonomous-ecosystem",
+   "landingImage":"/images/Landing-Ecosystem.svg",
+   "detailSidebarImage":"/images/DetailSidebar-Ecosystem.svg",
+   "title" : "Autonomous Ecosystem",
+   "subtitle" : "",
+   "description": "",
+   "sidebar" : "",
+   "content": [
+    {"title": "Plug & Play", "description": "MajorDom offers a fully autonomous ecosystem that's ready to use straight out of the box, streamlining the setup process.", "image": ""},
+    {"title": "Fault Tolerance", "description": "Designed for high availability, MajorDom's autonomous hub continues to operate even if individual devices or connections fail.", "image": ""},
+    {"title": "Offline Capabilities", "description": "Your MajorDom system can function entirely within a home network, ensuring continuous operation even when internet access is lost.", "image": ""}
+   ] 
+},
+  {
+    "id": "security",
+   "url":"/security",
+   "landingImage":"/images/Landing-Security.svg",
+   "detailSidebarImage":"/images/DetailSidebar-Security.svg",
+   "title" : "Ultimate Security",
+   "subtitle" : "",
+   "description": "",
+   "sidebar" : "",
+   "content": [
+    {"title": "More Than Automation", "description": "MajorDom isn't just about smart living; it's also your home's first line of defense against intrusion, fire, and leaks.", "image": ""},
+    {"title": "Multi-path Connectivity", "description": "Stay connected via Wi-Fi, Ethernet, and cellular networks for a secure and uninterrupted experience.", "image": ""},
+    {"title": "Instant Alerts", "description": "Get immediate notifications for connection loss or device malfunctions.", "image": ""}
+   ] 
+},
+  {
+    "id": "archie",
+   "url":"/archie",
+   "landingImage":"/images/Landing-Archie.svg",
+   "detailSidebarImage":"/images/DetailSidebar-Archie.svg",
+   "title" : "A.R.C.H.I.E",
+   "subtitle" : "voice assistant",
+   "description": "Autonomous Responsive Cognitive Home Interaction Engine",
+   "sidebar" : "",
+   "content": [
+    {"title": "Unparalleled Autonomy", "description": "Archie works entirely offline, offering constant, unrestricted household control.", "image": ""},
+    {"title": "Enhanced Privacy & Security", "description": "Your data never leaves your home, making Archie a privacy-first assistant.", "image": ""},
+    {"title": "Extendable with LLMs", "description": "Boost Archie's capabilities by integrating advanced language models like ChatGPT.", "image": ""},
+    {"title": "Context-Aware Commands", "description": "Archie can execute complex commands like \"turn on the light, close the windows, and turn on the TV\" all in one sentence. Context matters; say \"turn on the light in the living room\" and then \"open the window\" Archie knows you mean the living room window.", "image": ""},
+    {"title": "Versatile Functions", "description": "Archie covers everything from time management tools to general information queries.", "image": ""},
+    {"title": "Audible Updates", "description": "Skip phone checks, hear important alerts instantly. Archie recaps missed ones when you return.", "image": ""},
+    {"title": "Audible Updates", "description": "Skip phone checks, hear important alerts instantly. Archie recaps missed ones when you return.", "image": ""}
+
+   ] 
+},
+  {
+    "id": "privacy",
+   "url":"/privacy",
+   "landingImage":"/images/Landing-Privacy.svg",
+   "detailSidebarImage":"/images/DetailSidebar-Privacy.svg",
+   "title" : "Privacy First",
+   "subtitle" : "",
+   "description":"All your data stays on your local hub, safeguarded by strong authentication and end-to-end encryption",
+   "sidebar" : "",
+    "content": [
+      
+    ],
+    "content_image": "/images/2-2_original.svg"
+},
+
+  {
+    "id":"merlin",
+   "url":"/merlin",
+   "landingImage":"/images/3_1.svg",
+   "detailSidebarImage":"/images/3_1_original.svg",
+   "title" : "Merlin",
+   "subtitle" : "radio protocol",
+   "description": "MajorDom Encrypted Radio for Low-power Intelligent Networking",
+   "sidebar" : "",
+    "content": [
+    {"title": "Durability", "description": "Energy-efficient radio modules allow for extended battery life and long-range communication.", "image": ""},
+    {"title": "Flexibility", "description": "Works on multiple frequencies and shifts automatically in case of jamming. Emergency alerts are triggered if necessary.", "image": ""},
+    {"title": "Invulnerability", "description": "Fortified with multi-layered measures against jamming, eavesdropping, and tampering, using AES-based algorithms and dynamic keys.", "image": ""},
+    {"title": "MerlinHttp", "description": "For devices requiring internet, MajorDom provides an HTTP SDK with secure, asymmetrically encrypted tokens. It allows for easy integration of custom devices like ESP or Raspberry Pi boards, while maintaining MajorDom's robust security, user-friendly interface, and true automation.", "image": ""},
+    {"title": "Event", "description": "Ensures data delivery through multiple attempts, minimizing risk.", "image": ""},
+    {"title": "Always in Touch", "description": "Provides continuous connectivity between devices, ensuring real-time monitoring and instant notifications", "image": ""},
+    {"title": "Always in Touch", "description": "Provides continuous connectivity between devices, ensuring real-time monitoring and instant notifications", "image": ""}
+  ]
+},
+  {
+    "id": "integration",
+   "url":"/integration",
+   "landingImage":"/images/3-1.svg",
+   "detailSidebarImage":"/images/3-1_original.svg",
+   "title" : "DIY Device Integration",
+   "subtitle" : "",
+   "description": "",
+   "sidebar" : "",
+   "content": [
+    {"title": "DIY Device Integration", "description": "MajorDom seamlessly integrates with DIY devices based on Arduino, Raspberry Pi and similar platforms, expanding the possibilities of your smart home. + open wiki on GitHub", "button": "open documentation"}
+   ],
+   "content_image": "/images/chip.svg" 
+},
+  {
+    "id":"open-source",
+   "url":"/open-source",
+   "landingImage":"/images/3-2_original.png",
+   "detailSidebarImage":"/images/3-2_original1.png",
+   "title" : "Open",
+   "dectitle": "source",
+   "origintitle": "Open source",
+   "subtitle" : "",
+   "description": "",
+   "sidebar" : "",
+    "content": [
+    {"title": "Open Source", "description": "MajorDom seamlessly integrates with DIY devices based on Arduino, Raspberry Pi and similar platforms, expanding the possibilities of your smart home. + open wiki on GitHub", "button": "open github"}
+   ],
+   "content_image": "/images/github_back.svg" 
+ }
+]

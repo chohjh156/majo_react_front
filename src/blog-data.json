@@ -1,0 +1,35 @@
+[
+  {
+    "url": "building-a-smart-home-from-voice-assistant-to-major-dom-v-1-0",
+    "bg_url": "/images/blog.png",
+    "release": "Latest",
+    "title": "Building a Smart Home - from Voice Assistant to MajorDom v1.0",
+    "published": "May 26th, 2023",
+    "readtime": "5"    
+  },
+  {
+    "url": "inside-major-dom-v-1-0-exploring-the-architecture-of-a-new-smart-home-system",
+    "bg_url": "/images/blog.png",
+    "release": "Tag",
+    "title":
+      "Inside MajorDom v1.0: Exploring the Architecture of a New Smart Home System",
+    "published": "June 1st, 2023",
+    "readtime": "3"
+  },
+  {
+    "url": "localize-ios-app-in-5-minutes",
+    "bg_url": "/images/blog.png",
+    "release": "Tag",
+    "title": "How to Localize All Your iOS Apps into 20 Languages in 5 Minutes",
+    "published": "March 1st, 2023",
+    "readtime": "3"
+  },
+  {
+    "url": "stark-the-voice-assistants-framework",
+    "bg_url": "/images/blog.png",
+    "release": "Tag",
+    "title": "S.T.A.R.K - The First Voice Assistant's Framework",
+    "published": "September 20th, 2023",
+    "readtime": "2"
+  }
+]

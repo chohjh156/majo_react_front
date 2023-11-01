@@ -1,0 +1,32 @@
+[
+{
+    "question": "What is MajorDom?",
+    "answer": "MajorDom is an AI-powered, fully autonomous smart home system designed to bring true automation and unparalleled security to your living environment.",
+    "tags": ["General", "Introduction"]
+  },
+  {
+    "question": "How does MajorDom differ from other smart home systems?",
+    "answer": "MajorDom offers a truly autonomous ecosystem with AI-driven decisions, eliminating the need for manual scripts. Its strong focus on security through end-to-end encryption and a decentralized backend sets it apart from traditional smart home systems.",
+    "tags": ["Features", "Comparison"]
+  },
+  {
+    "question": "What is Archie?",
+    "answer": "Archie is MajorDom's fully autonomous voice assistant, designed to operate offline for enhanced privacy and uninterrupted service.",
+    "tags": ["Features", "Voice Assistant"]
+  },
+  {
+    "question": "Can MajorDom work offline?",
+    "answer": "Yes, MajorDom's Autonomous Ecosystem can operate entirely offline within your Local Area Network (LAN), giving you control and peace of mind even without internet access.",
+    "tags": ["Features", "Offline"]
+  },
+  {
+    "question": "What is Merlin?",
+    "answer": "Merlin is MajorDom's specialized radio protocol designed for low-power, high-speed, long-range communication.",
+    "tags": ["Technical", "Merlin"]
+  },
+  {
+    "question": "How secure is MajorDom?",
+    "answer": "MajorDom employs multi-layered security features, including end-to-end encryption, strong authentication, and a decentralized backend system to protect your privacy and data.",
+    "tags": ["Security", "Privacy"]
+  }
+]
